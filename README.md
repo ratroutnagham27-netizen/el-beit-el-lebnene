@@ -4,6 +4,20 @@ A full-stack web app for a Lebanese restaurant: customers browse the menu, build
 
 Built during my Full-Stack Web Development internship at LapTop (Saida, Lebanon), Feb–Apr 2026.
 
+## Screenshots
+
+| Home | Menu |
+|---|---|
+| ![Home](screenshot/home.png) | ![Menu](screenshot/menu.png) |
+
+| Checkout | WhatsApp order summary |
+|---|---|
+| ![Checkout](screenshot/checkout.png) | ![WhatsApp order](screenshot/whatsapp.png) |
+
+| Admin dashboard |
+|---|
+| ![Admin dashboard](screenshot/admin.png) |
+
 ## Features
 
 - **Menu** grouped by category, with add-to-cart
